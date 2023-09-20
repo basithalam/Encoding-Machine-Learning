@@ -1,1 +1,1 @@
-# Encoding-Machine-Learning Assignemtn
+# Encoding-Machine-Learning Assignment
